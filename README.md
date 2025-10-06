@@ -4,13 +4,9 @@ import Desenvolvedor from "Gus-Bebop";
 class SobreMim extends Desenvolvedor {
     nome = "Gustavo";
     area = "Software Developer";
-    trabalho = "Estudante";
-    local = "PB";
-}
-
-class Skills extends Desenvolvedor {
-    linguagens = ["",""];
-    bibliotecas = ["Suas bibliotecas"];
-    frameworks = ["Seus frameworks"];
+    trabalho = "Estagiário de Desenvolvimento";
+    local = "PB, Brasil";
 }
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=java,react,typescript,docker,git,go,linux,postgres)](https://skillicons.dev)

@@ -1,12 +1,23 @@
-```js
-import Desenvolvedor from "Gus-Bebop";
+<h1 align="center">👋 Olá, eu sou Gustavo Lelis</h1>
 
-class SobreMim extends Desenvolvedor {
-    nome = "Gustavo";
-    area = "Software Developer";
-    trabalho = "Estagiário de Desenvolvimento";
-    local = "PB, Brasil";
-}
-```
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,typescript,docker,git,go,linux,postgres)](https://skillicons.dev)
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=c#,go,c)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,mysql,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{gustavolelis15@gmail.com})](mailto:{gustavo.lelis@gmail.com})
+[![Linkedin: Gustavo](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lelis/)](https://www.linkedin.com/in/gustavo-lelis/)
+ <br><br>
+
+
+![Gustavo-Lelis GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Lelis&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>

@@ -6,15 +6,15 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=c#,go,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cs,go,c)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,powershell,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{gustavolelis15@gmail.com})](mailto:{gustavo.lelis@gmail.com})
-[![Linkedin: Gustavo](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lelis/)](https://www.linkedin.com/in/gustavo-lelis/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavolelis.15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavolelis15@gmail.com)](mailto:gustavo.lelis@gmail.com)
+[![Linkedin: Gustavo](https://img.shields.io/badge/-gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lelis/)](https://www.linkedin.com/in/gustavo-lelis/)
  <br><br>
 
 

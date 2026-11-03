@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-gustavolelis.15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavolelis15@gmail.com)](mailto:gustavo.lelis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavolelis15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavolelis15@gmail.com)](mailto:gustavo.lelis@gmail.com)
 [![Linkedin: Gustavo](https://img.shields.io/badge/-gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lelis/)](https://www.linkedin.com/in/gustavo-lelis/)
  <br><br>
 
